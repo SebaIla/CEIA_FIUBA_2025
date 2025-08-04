@@ -1,0 +1,6 @@
+# ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICAL
+## OPERACIONES DE APRENDIZAJE AUTOMÁTICO I
+### TRABAJO FINAL
+#### Integrantes
+    1. Corti, Gaston
+    2. Castillo, Sebastian
