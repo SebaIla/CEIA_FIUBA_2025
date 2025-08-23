@@ -1,7 +1,4 @@
-import os
-os.environ['METAFLOW_DEFAULT_ENVIRONMENT'] = 'local'
-
-from metaflow import FlowSpec, step
+from metaflow import FlowSpec, step, Parameter
 import sys
 import os
 
