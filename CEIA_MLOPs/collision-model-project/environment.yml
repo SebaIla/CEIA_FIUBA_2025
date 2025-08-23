@@ -1,0 +1,17 @@
+name: collision-model-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.13
+  - jupyter
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - requests
+  - pip
+  - pip:
+    - mlflow
+    - metaflow
+    - torch
