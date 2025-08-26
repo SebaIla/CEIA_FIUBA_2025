@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/sebas/OneDrive/Documentos/PythonProjects/CEIA_FIUBA_2025/CEIA_Operaciones_ML/collision-prediction-project/mlruns/1/models/m-e8f40bf6f0214e2891ce2078bb69c1b4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-e8f40bf6f0214e2891ce2078bb69c1b4
+model_size_bytes: 17897298
+model_uuid: m-e8f40bf6f0214e2891ce2078bb69c1b4
+prompts: null
+run_id: 25bd524354564de5a566524374bd10d7
+utc_time_created: '2025-08-26 00:34:52.482011'
